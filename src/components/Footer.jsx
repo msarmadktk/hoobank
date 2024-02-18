@@ -33,7 +33,7 @@ const Footer = () => (
     <div className={`w-full h-full font-poppins mt-8 mb-8 border-b-[1px] text-white`}> </div>
 
     <div className="flex md:flex-row sm:flex-row flex-col w-full justify-between items-center">
-      <p className={`font-poppins font-normal text-dimWhite text-[16px] mb-4 leading-[30.8px]`}>Copyright © 2024 HooBank. Made by Databot with 🔥.</p>
+      <p className={`font-poppins font-normal text-dimWhite text-[16px] mb-4 leading-[30.8px]`}>Copyright © 2024 HooBank. Made by Databot with ❤️‍🔥</p>
       <div className="flex flex-row md:w-[30%] sm:w-[30%] w-[50%] mb-4 justify-around items-center">
           {
             socialMedia.map((socialIcon , index)=>(
